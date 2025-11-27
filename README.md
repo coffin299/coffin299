@@ -5,10 +5,8 @@
 <span style="color: #00D9FF;">*Can't code without AI assistance (Currently unemployed)*</span>
 
 <p align="center">
-  <img src="./eyecatch.png" width="700" alt="eyecatch" />
+  <img src="./eyecatch.png" alt="eyecatch" />
 </p>
-
----
 
 ---
 
