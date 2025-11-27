@@ -17,26 +17,26 @@
 
 ### 🌟 <span style="color: #00D9FF;">Main Projects</span>
 
-<table align="center">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td>
+    <td style="border: none; padding: 4px 8px;">
       <a href="https://github.com/coffin399/ProjectMOMOKA">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=ProjectMOMOKA&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false" alt="ProjectMOMOKA" />
       </a>
     </td>
-    <td>
+    <td style="border: none; padding: 4px 8px;">
       <a href="https://github.com/coffin399/llmcord-JP-plana">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=llmcord-JP-plana&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false" alt="llmcord-JP-plana" />
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="border: none; padding: 4px 8px;">
       <a href="https://github.com/coffin399/coffin299-Hyper-AI-Agent">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=coffin299-Hyper-AI-Agent&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false" alt="coffin299-Hyper-AI-Agent" />
       </a>
     </td>
-    <td>
+    <td style="border: none; padding: 4px 8px;">
       <a href="https://github.com/coffin399/music-bot-arona">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=music-bot-arona&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false" alt="music-bot-arona" />
       </a>
