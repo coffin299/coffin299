@@ -26,6 +26,8 @@
   </a>
 </p>
 
+<br />
+
 <p align="center">
   <a href="https://github.com/coffin399/coffin299-Hyper-AI-Agent">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=coffin299-Hyper-AI-Agent&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false" alt="coffin299-Hyper-AI-Agent" />
