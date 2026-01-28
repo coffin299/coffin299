@@ -29,8 +29,8 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/coffin399/coffin299-Hyper-AI-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=coffin299-Hyper-AI-Agent&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false&description_lines_count=3" alt="coffin299-Hyper-AI-Agent" />
+  <a href="[https://github.com/coffin399/coffin299-Hyper-AI-Agent](https://github.com/coffin399/StarResonance_Japan_Market_Analyzer)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=StarResonance_Japan_Market_Analyzer&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false&description_lines_count=3" alt="StarResonance_Japan_Market_Analyzer" />
   </a>
   <a href="https://github.com/coffin399/music-bot-arona">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=coffin399&repo=music-bot-arona&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false&description_lines_count=3" alt="music-bot-arona" />
