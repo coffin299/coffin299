@@ -1,36 +1,35 @@
-name: Update README
+name: Update README timestamp
 
 on:
   schedule:
-    # 12時間ごとに実行 (UTC時間)
+    # 12時間ごとに実行 (UTC)
     - cron: '0 */12 * * *'
-  workflow_dispatch: # 手動実行も可能
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
-      - name: Update README timestamp
+
+      - name: Update README timestamp in place
         run: |
-          # README.mdの最後の更新コメントを更新
+          # 空行を増やさず、末尾の更新コメントだけを置き換える
           TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
-          # 既存の更新コメントを削除
-          sed -i '/<!-- Last updated:.*-->/d' README.md
-          # 新しい更新コメントを追加
-          echo "" >> README.md
-          echo "<!-- Last updated: $TIMESTAMP -->" >> README.md
-      
+          if grep -q '<!-- Last updated:' README.md; then
+            sed -i "s|<!-- Last updated:.*-->|<!-- Last updated: ${TIMESTAMP} -->|" README.md
+          else
+            printf '\n<!-- Last updated: %s -->\n' "$TIMESTAMP" >> README.md
+          fi
+
       - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --staged --quiet || git commit -m "Auto-update README stats [skip ci]"
+          git diff --staged --quiet || git commit -m "chore: update README timestamp [skip ci]"
           git push
-
