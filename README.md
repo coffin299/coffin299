@@ -1,5 +1,12 @@
 # ✨<span style="color: #00D9FF;">coffin299</span> ✨
 
+<a href="https://github.com/coffin299/Andrew6rant_For_coffin299">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coffin299/Andrew6rant_For_coffin299/main/dark_mode.svg">
+    <img alt="coffin299 GitHub Profile README" src="https://raw.githubusercontent.com/coffin299/Andrew6rant_For_coffin299/main/light_mode.svg">
+  </picture>
+</a>
+
 <span style="color: #00D9FF;">**Python | TypeScript | JavaScript | Java | C# | Rust**</span>
 
 <span style="color: #00D9FF;">*Let's melt our coding skills and brains with AI!*</span>
