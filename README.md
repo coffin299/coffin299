@@ -23,8 +23,8 @@
   <a href="https://github.com/coffin299/ProjectMOMOKA">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=coffin299&repo=ProjectMOMOKA&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false&description_lines_count=3" alt="ProjectMOMOKA" />
   </a>
-  <a href="https://github.com/coffin299/LunaticAsylum">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=coffin299&repo=LunaticAsylum&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false&description_lines_count=3" alt="LunaticAsylum" />
+  <a href="https://github.com/coffin299/VRCast">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=coffin299&repo=VRCast&theme=radical&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&border_radius=15&hide_border=false&description_lines_count=3" alt="VRCast" />
   </a>
 </p>
 
