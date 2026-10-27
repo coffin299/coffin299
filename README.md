@@ -10,11 +10,6 @@
 <span style="color: #00D9FF;">**Python | TypeScript | JavaScript | Java | C# | Rust**</span>
 
 <span style="color: #00D9FF;">*Let's melt our coding skills and brains with AI!*</span>
-
-<p align="center">
-  <img src="./eyecatch.png" alt="eyecatch" />
-</p>
-
 ---
 
 ## 🎯 <span style="color: #00D9FF;">About Me</span> 🎯
