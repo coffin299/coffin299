@@ -128,7 +128,7 @@
 ## 👁️ <span style="color: #00D9FF;">Profile Views</span>
 
 <p align="center">
-  <img src="https://count.getloli.com/@coffin299GithubProfileVisit?theme=green&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1" alt="Profile Views" />
+  <img src="https://count.getloli.com/@coffin299GithubProfileVisit?theme=green&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Profile Views" />
 </p>
 
 ---
